@@ -12,6 +12,10 @@ A [MagicMirror²](https://github.com/MagicMirrorOrg/MagicMirror) module that dis
 - 🌐 **Cross-Platform**: Works seamlessly on Windows, macOS, and Linux
 
 
+## Screenshot
+![Some impressions](screenshots/screenshot.png)
+
+
 ## 🚀 Installation
 
 1. Navigate to your MagicMirror's modules directory:
