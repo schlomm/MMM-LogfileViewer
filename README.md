@@ -25,7 +25,7 @@ cd ~/MagicMirror/modules
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/MMM-LogfileViewer.git
+git clone https://github.com/schlomm/MMM-LogfileViewer.git
 ```
 
 3. Install dependencies:
@@ -221,17 +221,17 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 If you have questions, encounter issues, or would like to request new features, please create a GitHub issue:
 
-🐛 **Bug Reports**: [Create an Issue](https://github.com/yourusername/MMM-LogfileViewer/issues/new)
+🐛 **Bug Reports**: [Create an Issue](https://github.com/schlomm/MMM-LogfileViewer/issues/new)
 - Include your MagicMirror version
 - Provide your module configuration (remove sensitive data)
 - Share relevant log output from browser console
 
-💡 **Feature Requests**: [Create an Issue](https://github.com/yourusername/MMM-LogfileViewer/issues/new)
+💡 **Feature Requests**: [Create an Issue](https://github.com/schlomm/MMM-LogfileViewer/issues/new)
 - Describe the feature and its use case
 - Explain how it would improve the module
 - Consider compatibility with existing functionality
 
-❓ **Questions**: [Browse Existing Issues](https://github.com/yourusername/MMM-LogfileViewer/issues) or create a new one
+❓ **Questions**: [Browse Existing Issues](https://github.com/schlomm/MMM-LogfileViewer/issues) or create a new one
 
 ## 🤝 Contributing
 
